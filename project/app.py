@@ -91,3 +91,4 @@ for i in range(min(50, len(df))):
         print("One or more required fields are empty or invalid. Skipping article display.")
 
 st.markdown("<p style='font-size: small; color: grey; text-align: center;'>A NLP project. <a href='https://github.com/Dheeraj1706/News-Summarization'>GitHub Link</a> . Disclaimer: This project is intended for educational purposes only. Web scraping without proper authorization is not encouraged or endorsed.</p>", unsafe_allow_html=True)    
+#hello
